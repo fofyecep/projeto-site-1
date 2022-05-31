@@ -4,6 +4,9 @@
 }
 
 body {
+    margin: 0;
+    padding: 0;
+    color: #000;
     background-color: #acacff;
 
 }
@@ -52,6 +55,14 @@ a:hover {
     float: left;
     background:rgb(32, 201, 32);
     width: 340px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+#rodape {
+    clear: both;
+    background:rgb(234, 250, 4);
+    
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
