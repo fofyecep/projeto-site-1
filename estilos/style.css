@@ -41,6 +41,7 @@ a:hover {
     color: rgb(26, 26, 255);
 }
 #coluna1 {
+    float: right;
     background:rgb(133, 36, 224);
     width: 340px;
     margin: auto;
@@ -48,6 +49,7 @@ a:hover {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 #coluna2 {
+    float: left;
     background:rgb(32, 201, 32);
     width: 340px;
     margin: auto;
