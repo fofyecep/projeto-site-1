@@ -52,9 +52,10 @@ a:hover {
     box-shadow: 3px 3px 5px rgba(102, 101, 101, 0.473);
 }
 #container{
-    float: center;
+    float: both;
     background:rgb(21, 17, 26);
     width: auto;
+    height: 640;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
