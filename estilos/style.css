@@ -60,17 +60,17 @@ a:hover {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 #coluna1 {
-    /*float: left;*/
+    float: left;
     background:rgb(133, 36, 224);
-    width: 50%;
+    /*width: 50%;*/
    /* margin: auto;*/
    /* padding: 10px;*/
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 #coluna2 {
-    /*float: right;*/
+    float: right;
     background:rgb(32, 201, 32);
-    width: 50%;
+    /*width: 50%;*/
     /*margin: auto;*/
     /*padding: 10px;*/
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
