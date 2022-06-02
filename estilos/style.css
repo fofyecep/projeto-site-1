@@ -46,6 +46,18 @@ a:hover {
 #cabeçalho{
     clear: both;
     background:rgba(24, 26, 1, 0.473);
+    
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(102, 101, 101, 0.473);
+}
+#container{
+    float: center;
+    background:rgb(21, 17, 26);
+    width: auto;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 #coluna1 {
     float: left;
@@ -63,6 +75,7 @@ a:hover {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
 #rodape {
     clear: both;
     background:rgba(24, 26, 1, 0.473);
