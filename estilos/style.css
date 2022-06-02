@@ -43,6 +43,10 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
+#cabeçalho{
+    clear: both;
+    background:rgba(24, 26, 1, 0.473);
+}
 #coluna1 {
     float: left;
     background:rgb(133, 36, 224);
