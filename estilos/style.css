@@ -54,7 +54,8 @@ a:hover {
 #container{
     clear: both;
     background:rgb(21, 17, 26);
-    width: 100%;
+    width: auto;
+    height: auto;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
