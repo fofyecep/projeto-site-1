@@ -32,7 +32,9 @@ h2 {
 img.lado {
     float: right;
 }
-
+img.lado2 {
+    float: left;
+}
 a {
     text-decoration: none;
     font-weight: bold;
