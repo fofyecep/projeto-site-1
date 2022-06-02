@@ -55,7 +55,6 @@ a:hover {
     float: both;
     background:rgb(21, 17, 26);
     width: auto;
-    height: 640;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -63,7 +62,7 @@ a:hover {
 #coluna1 {
     float: left;
     background:rgb(133, 36, 224);
-    width: auto;
+    width: 50%;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -71,7 +70,7 @@ a:hover {
 #coluna2 {
     float: right;
     background:rgb(32, 201, 32);
-    width: auto;
+    width: 50%;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
